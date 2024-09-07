@@ -1,0 +1,26 @@
+* {
+    font-family: monospace;
+}
+
+html {
+    font-size: 20px
+}
+body {
+   background-color: #ffffff;
+}
+
+h1 {
+    color: #f6743a;
+}
+
+h2 {
+    color: #397654;
+}
+
+h3 {
+    color: #f48b9f;
+}
+
+p {
+    color:#787672;
+}
